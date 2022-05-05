@@ -2,7 +2,7 @@
 Free high quality plugins for your Minecraft server!
 
 [Affordable **Minecraft** and **Game** Servers **at** Shockbyte](https://shockbyte.com/billing/aff.php?aff=4416)
-(Use the code `LAUNCH`` for a 25% discount)
+(Use the code `LAUNCH` for a 25% discount)
 
 ### Plugins
 - [MyTrip](https://github.com/ChafficPlugins/MyTrip)
