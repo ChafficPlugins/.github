@@ -7,7 +7,7 @@ Free high quality plugins for your Minecraft server!
 ### Plugins
 - [MyTrip](https://github.com/ChafficPlugins/MyTrip)
 - [MiningLevels](https://github.com/ChafficPlugins/MiningLevels)
-- [CrucialAPI](https://github.com/Chafficui/CrucialAPI)
+- [ChafficLib](https://github.com/ChafficPlugins/ChafficLib) (formerly [CrucialAPI](https://github.com/Chafficui/CrucialAPI))
 - [WeaponLevels](https://github.com/ChafficPlugins/WeaponLevels) (WIP)
 - [ArcadeLib](https://github.com/ChafficPlugins/ArcadeLib) (WIP)
 
